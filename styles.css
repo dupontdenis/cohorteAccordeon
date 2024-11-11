@@ -1,0 +1,12 @@
+/* Custom styles for the accordion */
+.accordion-button {
+  font-weight: bold;
+}
+
+.accordion-body {
+  background-color: #f8f9fa;
+}
+
+.accordion-item {
+  margin-bottom: 1rem;
+}
